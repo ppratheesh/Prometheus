@@ -248,7 +248,7 @@ ANS:
 
 - [Brainstorm] How can you filter some applications when querying with PromQL?
 
-   we can use labels to filter the results and we can make use of operators for filtering 
+   we can use labels and operators for filtering 
 
 - [Brainstorm] How can I measure a metric over last 30 minutes?
 
